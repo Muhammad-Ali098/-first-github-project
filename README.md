@@ -1,5 +1,5 @@
 # -first-github-project
-Name: Your Name
+Name: Muhammad Ali
 Title: GitHub Practical
-Date: DD/MM/YYYY
+Date: 7 Dec 2025
 Purpose: Learning Git and GitHub basics
